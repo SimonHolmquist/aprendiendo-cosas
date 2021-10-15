@@ -18,7 +18,7 @@
     - https://learngitbranching.js.org/?locale=es_AR
 
 #### Esquema inicial
-- ![alt text](https://github.com/SimonHolmquist/aprendiendo-cosas/blob/main/esquema.png?raw=true)
+- ![alt text](https://github.com/SimonHolmquist/aprendiendo-cosas/blob/main/esquema.jpg?raw=true)
 
 TODO
 
